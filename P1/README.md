@@ -56,7 +56,7 @@ data/news_vnexpress/
 ```
 ## Project Structure
 ```
-text_classification/
+P1/
 │
 ├── main.py
 ├── experiment.ipynb
