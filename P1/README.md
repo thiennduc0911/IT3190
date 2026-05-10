@@ -40,3 +40,43 @@ The following models were implemented and evaluated:
 - Hyperparameter tuning using GridSearchCV
 - Accuracy evaluation
 - Confusion matrix visualization
+
+## Dataset
+
+The dataset is not included in this repository due to size limitations.
+
+Dataset source:
+- VnExpress Vietnamese news dataset
+- https://users.soict.hust.edu.vn/khoattq/ml-dm-course
+
+After downloading the dataset, place it in:
+
+```text
+data/news_vnexpress/
+
+## Project Structure
+
+text_classification/
+│
+├── main.py
+├── experiment.ipynb
+├── requirements.txt
+├── README.md
+└── data/
+
+## Requirements
+Install required libraries:
+
+pip install -r requirements.txt
+
+## How to run
+Run the Python script:
+
+python main.py
+
+Or open the notebook:
+
+jupyter notebook experiment.ipynb
+
+## Results
+The project evaluates different Machine Learning algorithms and selects the best-performing model based on classification accuracy.
