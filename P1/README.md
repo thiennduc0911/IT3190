@@ -1,4 +1,4 @@
-# Vietnamese News Classification
+# Text Classification using TF-IDF and Machine Learning
 
 This project focuses on Vietnamese text classification using traditional Machine Learning methods and TF-IDF feature extraction.
 
