@@ -53,7 +53,7 @@ After downloading the dataset, place it in:
 
 ```text
 data/news_vnexpress/
-
+```
 ## Project Structure
 
 text_classification/
