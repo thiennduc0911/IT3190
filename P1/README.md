@@ -55,7 +55,7 @@ After downloading the dataset, place it in:
 data/news_vnexpress/
 ```
 ## Project Structure
-
+```
 text_classification/
 │
 ├── main.py
@@ -63,20 +63,20 @@ text_classification/
 ├── requirements.txt
 ├── README.md
 └── data/
-
+```
 ## Requirements
 Install required libraries:
-
+```
 pip install -r requirements.txt
-
+```
 ## How to run
 Run the Python script:
-
+```
 python main.py
-
+```
 Or open the notebook:
-
+```
 jupyter notebook experiment.ipynb
-
+```
 ## Results
 The project evaluates different Machine Learning algorithms and selects the best-performing model based on classification accuracy.
